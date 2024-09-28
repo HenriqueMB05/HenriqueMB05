@@ -14,5 +14,5 @@
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemb05&layout=donut&locale=pt-br)](https://github.com/henriquemb05/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemb05&layout=donut&theme=synthwave&locale=pt-br)](https://github.com/henriquemb05/github-readme-stats)
 
