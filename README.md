@@ -1,6 +1,6 @@
 ## Olá, eu me chamo Henrique Bonfim<br/>Sejam bem-vindos ao meu GitHub 🤓👍🏾
 
-![Henrique Bonfim GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriquemb05&show_icons=false&theme=synthwave&locale=pt-br&rank_icon=github)
+![Henrique Bonfim GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriquemb05&show_icons=false&theme=synthwave&locale=pt-br&rank_icon=github&hide_border=true)
 
 
 # Tecnologias que utilizo
@@ -12,5 +12,5 @@
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemb05&layout=donut&theme=synthwave&locale=pt-br)](https://github.com/henriquemb05/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemb05&layout=donut&theme=synthwave&locale=pt-br&hide_border=true)](https://github.com/henriquemb05/github-readme-stats)
 
