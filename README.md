@@ -3,16 +3,13 @@
 <details>
   <summary>Sobre mim &lt;/&gt;</summary>
 
-  -  Sou um rapaz comum que é apaixonado por tecnologia.
-
+  - Graduando em Sistema de Informação - UNIFESSPA.
   - Um amante de volei, animes, filmes de terro (as trasheira são minhas favoritos) e jogos.
+  - 
 </details>
 <br/>
 
-<img 
-  aling="left"
-  src="https://github-readme-stats.vercel.app/api?username=henriquemb05&show_icons=true&theme=synthwave&locale=pt-br&rank_icon=github&hide_border=true"
-/>
+<img height="200" aling="left" src="https://github-readme-stats.vercel.app/api?username=henriquemb05&show_icons=true&theme=synthwave&locale=pt-br&rank_icon=github&hide_border=true"/>
 <img aling="left" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquemb05&theme=synthwave&hide_border=true"/>
 
 # Tecnologias que utilizo
@@ -25,3 +22,7 @@
 </div><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemb05&layout=donut&theme=synthwave&locale=pt-br&hide_border=true"/>
+
+
+## Isso é tudo
+<img height="200" src="https://64.media.tumblr.com/4341a7bf8879e16c565af2397267d633/0ddab0a96d63418b-70/s500x750/55cf95fdfe391a48a382111ee59a78d5aa03b1b6.gifv"/>
