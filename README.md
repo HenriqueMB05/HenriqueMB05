@@ -1,7 +1,19 @@
 ## Olá, eu me chamo Henrique Bonfim<br/>Sejam bem-vindos ao meu GitHub 🤓👍🏾
 
-![Henrique Bonfim GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriquemb05&show_icons=false&theme=synthwave&locale=pt-br&rank_icon=github&hide_border=true)
+<details>
+  <summary>Sobre mim &lt;/&gt;</summary>
 
+  -  Sou um rapaz comum que é apaixonado por tecnologia.
+
+  - Um amante de volei, animes, filmes de terro (as trasheira são minhas favoritos) e jogos.
+</details>
+<br/>
+
+<img 
+  aling="left"
+  src="https://github-readme-stats.vercel.app/api?username=henriquemb05&show_icons=true&theme=synthwave&locale=pt-br&rank_icon=github&hide_border=true"
+/>
+<img aling="left" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquemb05&theme=synthwave&hide_border=true"/>
 
 # Tecnologias que utilizo
 <div style="display: inline_block"><br/>
@@ -12,5 +24,4 @@
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemb05&layout=donut&theme=synthwave&locale=pt-br&hide_border=true)](https://github.com/henriquemb05/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemb05&layout=donut&theme=synthwave&locale=pt-br&hide_border=true"/>
