@@ -5,7 +5,6 @@
 
   - Graduando em Sistema de Informação - UNIFESSPA.
   - Um amante de volei, animes, filmes de terro (as trasheira são minhas favoritos) e jogos.
-  - 
 </details>
 <br/>
 
