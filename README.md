@@ -24,7 +24,7 @@
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemb05&layout=donut&theme=synthwave&locale=pt-br&hide_border=true"/><br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemb05&layout=compact&theme=synthwave&locale=pt-br&hide_border=true"/><br/><br/>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer"/>
