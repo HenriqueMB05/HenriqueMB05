@@ -4,8 +4,10 @@
 <details>
   <summary>Sobre mim &lt;/&gt;</summary>
 
-  - Graduando em Sistema de Informação - UNIFESSPA.
-  - Um amante de volei, animes, filmes de terro (as trasheira são minhas favoritas) e jogos.<br/>
+  - Um amante de volei;
+  - animes;
+  - filmes de terro (as trasheira são minhas favoritas);
+  - jogos.<br/><br/>
   <img height="200" src="https://64.media.tumblr.com/4341a7bf8879e16c565af2397267d633/0ddab0a96d63418b-70/s500x750/55cf95fdfe391a48a382111ee59a78d5aa03b1b6.gifv"/> <img height="200" src="https://i.pinimg.com/originals/62/7a/a5/627aa586c95434484902b95b2fe6bf5d.gif"/>
 </details>
 <br/>
