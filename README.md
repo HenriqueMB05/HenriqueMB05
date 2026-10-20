@@ -14,8 +14,8 @@
 
 <img height="200" aling="left" src="https://github-readme-stats.vercel.app/api?username=henriquemb05&show_icons=true&theme=synthwave&locale=pt-br&count_private=true&rank_icon=github&hide_border=true"/> <img height="200" aling="left" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquemb05&theme=synthwave&hide_border=true"/>
 *******
-<img height="347" src="https://github-readme-activity-graph.vercel.app/graph?username=henriquemb05&bg_color=242424&color=ff1493&line=ff696c&point=dc143c&area=true&hide_border=true">
-<!--[![Henrique Bonfim](https://github-readme-activity-graph.vercel.app/graph?username=henriquemb05&bg_color=242424&color=ff1493&line=ff696c&point=dc143c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+<!--<img height="347" src="https://github-readme-activity-graph.vercel.app/graph?username=henriquemb05&bg_color=242424&color=ff1493&line=ff696c&point=dc143c&area=true&hide_border=true">-->
+[![Henrique Bonfim](https://github-readme-activity-graph.vercel.app/graph?username=henriquemb05&bg_color=242424&color=ff1493&line=ff696c&point=dc143c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Tecnologias que utilizo
 <div style="display: inline_block"><br/>
